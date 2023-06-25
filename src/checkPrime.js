@@ -5,6 +5,4 @@ function checkPrime(n) {
 		(n === 1) ? `${n} - не является простым числом` : "Данные неверны";
 }
 
-// alert(checkPrime(11));
-
 export default checkPrime;

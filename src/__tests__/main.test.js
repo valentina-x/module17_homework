@@ -1,4 +1,4 @@
-import sum from './main.js';
+import sum from "../main.js"
 
 describe('test sum', () => {
 	it('sum 1 + 2', () => {
